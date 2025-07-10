@@ -4,3 +4,6 @@ tabula-py==2.9.0
 pandas==2.2.2
 regex==2024.11.6
 python-dateutil==2.9.0
+python-dotenv==1.0.0
+google-genai==1.0.0
+reducto==1.0.0
